@@ -9,17 +9,17 @@ const routes = [
     // {
     //     path: '/algorithm',
     //     name: 'Algorithm',
-    //     component: () => import('./views/Algorithm.vue')
+    //     component: () => import('./views/AlgorithmPage.vue')
     // },
     // {
     //     path: '/examples',
     //     name: 'Examples',
-    //     component: () => import('./views/Examples.vue')
+    //     component: () => import('./views/ExamplesPage.vue')
     // },
     // {
     //     path: '/about',
     //     name: 'About',
-    //     component: () => import('./views/About.vue')
+    //     component: () => import('./views/AboutPage.vue')
     // }
 ];
 
